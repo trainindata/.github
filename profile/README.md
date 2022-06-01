@@ -37,7 +37,7 @@ Find out more about machine learning through our books, and have the code at you
 The open-source libraries I contribute to.
 
 | Library | About | Sponsor us |
-|---|---|---|---|
+|---|---|---|
 | [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | [Sponsor us](https://github.com/sponsors/feature-engine) |
 
 

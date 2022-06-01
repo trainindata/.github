@@ -1,5 +1,8 @@
 # Welcome to Train in Data
 
+[<img src="../trainindata_banner.png" width="1500">](https://www.trainindata.com)
+
+
 We are a group of passionate data scientists and software developers with the mission to make intermediate and advanced topics on machine learning, 
 data science and AI software engineering accessible to the wider data science community.
 

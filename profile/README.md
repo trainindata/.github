@@ -1,6 +1,6 @@
 # Welcome to Train in Data
 
-[<img src="[../trainindata_banner.png](https://raw.githubusercontent.com/trainindata/.github/main/trainindata_banner.png)" width="1500">](https://www.trainindata.com)
+[<img src="https://raw.githubusercontent.com/trainindata/.github/main/trainindata_banner.png" width="1500">](https://www.trainindata.com)
 
 
 We are a group of passionate data scientists and software developers with the mission to make intermediate and advanced topics on machine learning, 

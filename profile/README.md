@@ -33,6 +33,7 @@ Find out more about machine learning through our books, and have the code at you
 | Books | Summary |
 |---|---|
 | [**Python feature engineering Cookbook, first edition**](https://packt.link/python) |  More than a 100 Python recipes to implement feature engineering in tabular, transactional, time series and text data. |
+| [**Feature selection in machine learning with Python**](https://leanpub.com/feature-selection-in-machine-learning) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
 | [**Python feature engineering Cookbook, second edition**](https://github.com/solegalli/Python-Feature-Engineering-Cookbook-Second-Edition) |  Coming soon... |
 
 ## Open-source

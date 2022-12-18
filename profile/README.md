@@ -18,11 +18,11 @@ Check out the courses that we teach.
 
 | Courses | What you will learn |
 |---|---|
-| [**Feature engineering for machine learning**](https://courses.trainindata.com/p/feature-engineering-for-machine-learning) |  Learn to create new features, impute missing data, encode categorical variables, transform and discretize features and much more. |
-| [**Feature selection for machine learning**](https://courses.trainindata.com/p/feature-selection-for-machine-learning) |  Learn to select features using wrapper, filter, embedded and hybrid methods, and build simpler and reliable models. |
-| [**Hyperparameter optimization for machine learning**](https://courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning) |  Learn about grid and random search, Bayesian Optimization, Multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize and more. |
-| [**Machine learning with imbalanced data**](https://courses.trainindata.com/p/machine-learning-with-imbalanced-data) |  Learn about under- and over-sampling, ensemble and cost-sensitive methods and improve the performance of models trained on imbalanced data. |
-| [**Feature engineering for time series forecasting**](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variabes and much more, specifically for forecasting. |
+| [**Feature engineering for machine learning**](https://www.trainindata.com/p/feature-engineering-for-machine-learning) |  Learn to create new features, impute missing data, encode categorical variables, transform and discretize features and much more. |
+| [**Feature selection for machine learning**](https://www.trainindata.com/p/feature-selection-for-machine-learning) |  Learn to select features using wrapper, filter, embedded and hybrid methods, and build simpler and reliable models. |
+| [**Hyperparameter optimization for machine learning**](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning) |  Learn about grid and random search, Bayesian Optimization, Multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize and more. |
+| [**Machine learning with imbalanced data**](https://www.trainindata.com/p/machine-learning-with-imbalanced-data) |  Learn about under- and over-sampling, ensemble and cost-sensitive methods and improve the performance of models trained on imbalanced data. |
+| [**Feature engineering for time series forecasting**](https://www.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variabes and much more, specifically for forecasting. |
 | [**Deployment of machine learning models**](https://www.udemy.com/course/deployment-of-machine-learning-models/?referralCode=D4FE5EA129FFD203CFF4) |  Learn how to fully integrate your machine learning models into production systems and serve your customers. |
 | [**Testing and monitoring machine learning model deployments**](https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/?referralCode=51C74450124362545760) |  Learn how to monitor your machine learning models before, during and after model deployment. |
 
@@ -32,9 +32,8 @@ Find out more about machine learning through our books, and have the code at you
 
 | Books | Summary |
 |---|---|
-| [**Python feature engineering Cookbook, first edition**](https://packt.link/python) |  More than a 100 Python recipes to implement feature engineering in tabular, transactional, time series and text data. |
+| [**Python feature engineering Cookbook, second edition**](https://packt.link/0ewSo) |  Over 70 Python recipes to implement feature engineering in tabular, transactional, time series and text data. |
 | [**Feature selection in machine learning with Python**](https://leanpub.com/feature-selection-in-machine-learning) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
-| [**Python feature engineering Cookbook, second edition**](https://github.com/solegalli/Python-Feature-Engineering-Cookbook-Second-Edition) |  Coming soon... |
 
 ## Open-source
 
@@ -63,8 +62,7 @@ Follow us on social media or through our website to be up to date with our lates
 | Books | Summary |
 |---|---|
 | [Train in Data](https://www.trainindata.com/) | Website with our courses |
-| [Twitter](https://twitter.com/Soledad_Galli) | Sole shares latest news about courses and all things machine learning. |
 | [LinkedIn](https://de.linkedin.com/in/soledad-galli) | Sole shares latest news about courses and all things machine learning. |
-| [Medium](https://trainindata.medium.com/) | Lots of articles about data science, machine learning, feature engineering and selection and more. |
+| [Blog](https://www.blog.trainindata.com/) | Lots of articles about data science, machine learning, feature engineering and selection and more. |
 
 **We hope to see you around.**

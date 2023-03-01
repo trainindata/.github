@@ -24,7 +24,7 @@ Check out the courses that we teach.
 | [**Machine learning with imbalanced data**](https://www.trainindata.com/p/machine-learning-with-imbalanced-data) |  Learn about under- and over-sampling, ensemble and cost-sensitive methods and improve the performance of models trained on imbalanced data. |
 | [**Feature engineering for time series forecasting**](https://www.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variabes and much more, specifically for forecasting. |
 | [**Deployment of machine learning models**](https://www.udemy.com/course/deployment-of-machine-learning-models/?referralCode=D4FE5EA129FFD203CFF4) |  Learn how to fully integrate your machine learning models into production systems and serve your customers. |
-| [**Testing and monitoring machine learning model deployments**](https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/?referralCode=51C74450124362545760) |  Learn how to monitor your machine learning models before, during and after model deployment. |
+
 
 ## Books
 

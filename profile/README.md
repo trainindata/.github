@@ -23,7 +23,7 @@ Check out the courses that we teach.
 | [**Hyperparameter optimization for machine learning**](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning) |  Learn about grid and random search, Bayesian Optimization, Multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize and more. |
 | [**Machine learning with imbalanced data**](https://www.trainindata.com/p/machine-learning-with-imbalanced-data) |  Learn about under- and over-sampling, ensemble and cost-sensitive methods and improve the performance of models trained on imbalanced data. |
 | [**Feature engineering for time series forecasting**](https://www.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variabes and much more, specifically for forecasting. |
-| [**Deployment of machine learning models**](https://www.udemy.com/course/deployment-of-machine-learning-models/?referralCode=D4FE5EA129FFD203CFF4) |  Learn how to fully integrate your machine learning models into production systems and serve your customers. |
+| [**Machine Learning Interpretability**](https://www.trainindata.com/p/machine-learning-interpretability) |  Learn to interpret the predictions of your white box and black box machine learning models. |
 
 
 ## Books
@@ -58,11 +58,25 @@ Get to know the creators and instructors of our courses.
 ## Follow us
 
 Follow us on social media or through our website to be up to date with our latest news.
-
-| Books | Summary |
+| Media | Summary |
 |---|---|
-| [Train in Data](https://www.trainindata.com/) | Website with our courses |
-| [LinkedIn](https://de.linkedin.com/in/soledad-galli) | Sole shares latest news about courses and all things machine learning. |
-| [Blog](https://www.blog.trainindata.com/) | Lots of articles about data science, machine learning, feature engineering and selection and more. |
+| [Train in Data](https://www.trainindata.com/) | Enroll in our courses and books |
+| [LinkedIn](https://linkedin.com/in/soledad-galli) | I talk about data science, machine learning and how to become a data scientist. |
+| [Twitter](https://twitter.com/Soledad_Galli) | I tweet about data science, machine learning and how to become a data scientist.|
+| [Facebook](https://facebook.com/trainindata) | I talk about data science, machine learning and how to become a data scientist.|
+| [Instagram](https://instagram.com/train_in_data) | I post about data science, machine learning and how to become a data scientist.|
+| [Newsletter](http://eepurl.com/hdzffv) | I talk about data science, machine learning and how to become a data scientist. |
+| [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=trainindata&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=trainindata&&style=flat-square)  
+  
+<br/>
 
 **We hope to see you around.**

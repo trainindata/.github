@@ -68,10 +68,6 @@ Follow us on social media or through our website to be up to date with our lates
 | [Newsletter](http://eepurl.com/hdzffv) | I talk about data science, machine learning and how to become a data scientist. |
 | [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
 
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=trainindata&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 

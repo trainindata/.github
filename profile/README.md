@@ -23,6 +23,7 @@ Check out the courses that we teach.
 | [**Hyperparameter optimization for machine learning**](https://www.trainindata.com/p/hyperparameter-optimization-for-machine-learning) |  Learn about grid and random search, Bayesian Optimization, Multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize and more. |
 | [**Machine learning with imbalanced data**](https://www.trainindata.com/p/machine-learning-with-imbalanced-data) |  Learn about under- and over-sampling, ensemble and cost-sensitive methods and improve the performance of models trained on imbalanced data. |
 | [**Feature engineering for time series forecasting**](https://www.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variabes and much more, specifically for forecasting. |
+| [**Forecasting with Machine Learning**](https://www.trainindata.com/p/forecasting-with-machine-learning) |  Learn to perform time series forecasting with machine learning models like linear regression, random forests and xgboost. |
 | [**Machine Learning Interpretability**](https://www.trainindata.com/p/machine-learning-interpretability) |  Learn to interpret the predictions of your white box and black box machine learning models. |
 
 

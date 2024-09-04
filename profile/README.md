@@ -33,7 +33,7 @@ Find out more about machine learning through our books, and have the code at you
 
 | Books | Summary |
 |---|---|
-| [**Python feature engineering Cookbook, second edition**](https://packt.link/0ewSo) |  Over 70 Python recipes to implement feature engineering in tabular, transactional, time series and text data. |
+| [**Python feature engineering Cookbook, third edition**](https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587) |  Over 70 Python recipes to implement feature engineering in tabular, transactional, time series and text data. |
 | [**Feature selection in machine learning with Python**](https://leanpub.com/feature-selection-in-machine-learning) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
 
 ## Open-source
@@ -62,11 +62,11 @@ Follow us on social media or through our website to be up to date with our lates
 | Media | Summary |
 |---|---|
 | [Train in Data](https://www.trainindata.com/) | Enroll in our courses and books |
+| [Newsletter]([http://eepurl.com/hdzffv](https://www.trainindata.com/p/data-bites)) | I talk about data science, machine learning and how to become a data scientist. |
+| [YouTube]([https://instagram.com/train_in_data](https://www.youtube.com/@TraininData)) | I post about data science, machine learning and how to become a data scientist.|
 | [LinkedIn](https://linkedin.com/in/soledad-galli) | I talk about data science, machine learning and how to become a data scientist. |
 | [Twitter](https://twitter.com/Soledad_Galli) | I tweet about data science, machine learning and how to become a data scientist.|
 | [Facebook](https://facebook.com/trainindata) | I talk about data science, machine learning and how to become a data scientist.|
-| [Instagram](https://instagram.com/train_in_data) | I post about data science, machine learning and how to become a data scientist.|
-| [Newsletter](http://eepurl.com/hdzffv) | I talk about data science, machine learning and how to become a data scientist. |
 | [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
 
 

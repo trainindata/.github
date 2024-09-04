@@ -62,8 +62,8 @@ Follow us on social media or through our website to be up to date with our lates
 | Media | Summary |
 |---|---|
 | [Train in Data](https://www.trainindata.com/) | Enroll in our courses and books |
-| [Newsletter]([http://eepurl.com/hdzffv](https://www.trainindata.com/p/data-bites)) | I talk about data science, machine learning and how to become a data scientist. |
-| [YouTube]([https://instagram.com/train_in_data](https://www.youtube.com/@TraininData)) | I post about data science, machine learning and how to become a data scientist.|
+| [Newsletter](https://www.trainindata.com/p/data-bites) | I talk about data science, machine learning and how to become a data scientist. |
+| [YouTube](https://www.youtube.com/@TraininData) | I post about data science, machine learning and how to become a data scientist.|
 | [LinkedIn](https://linkedin.com/in/soledad-galli) | I talk about data science, machine learning and how to become a data scientist. |
 | [Twitter](https://twitter.com/Soledad_Galli) | I tweet about data science, machine learning and how to become a data scientist.|
 | [Facebook](https://facebook.com/trainindata) | I talk about data science, machine learning and how to become a data scientist.|

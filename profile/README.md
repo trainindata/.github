@@ -3,11 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/trainindata?label=Follow&style=social)](https://github.com/trainindata)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/company/trainindata/)
 
-<p align="center">
-  <a href="https://github.com/feature-engine/feature_engine">
-    <img src="https://raw.githubusercontent.com/trainindata/.github/main/feature_engine_logo.png" width="420" alt="Feature-engine logo">
-  </a>
-</p>
+[<img src="https://raw.githubusercontent.com/trainindata/.github/main/trainindata_banner.png" width="1500">](https://www.trainindata.com)
 
 
 We are a group of passionate data scientists and software developers with the mission to make intermediate and advanced topics on machine learning, 
@@ -49,13 +45,13 @@ Find out more about machine learning through our books, and have the code at you
 
 The open-source libraries we contribute to.
 
-| Library | About |
-|---|---|
-| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missing data imputation, categorical encoding, variable transformation and discretization, feature creation and more. |
-| [**tsfresh**](https://tsfresh.readthedocs.io/en/latest/) | Automatically create features for time series classification. |
-| [**imbalanced-learn**](https://imbalanced-learn.org/stable/) | Tools for under- and over-sampling and dealing with imbalanced data. |
-| [**BorutaPy**](https://github.com/scikit-learn-contrib/boruta_py) | Feature selection using Boruta. |
-| [**Eli5**](https://github.com/eli5-org/eli5) | Tools for machine learning interpretability. |
+| Library | About | Sponsor us |
+|---|---|---|
+| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missing data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | [Sponsor us](https://github.com/sponsors/feature-engine) |
+| [**tsfresh**](https://tsfresh.readthedocs.io/en/latest/) | Automatically create features for time series classification. | |
+| [**imbalanced-learn**](https://imbalanced-learn.org/stable/) | Tools for under- and over-sampling and dealing with imbalanced data. | |
+| [**BorutaPy**](https://github.com/scikit-learn-contrib/boruta_py) | Feature selection using Boruta. | |
+| [**Eli5**](https://github.com/eli5-org/eli5) | Tools for machine learning interpretability. | |
 
 
 ## Our instructors

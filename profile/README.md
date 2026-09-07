@@ -62,7 +62,7 @@ Get to know the creators and instructors of our courses.
 |---|---|
 | [**Soledad Galli**](https://de.linkedin.com/in/soledad-galli) | Data scientist | 
 | [**Kishan Manani**](https://uk.linkedin.com/in/kishanmanani) | Data scientist | 
-| [**Chris Samiullah**](https://uk.linkedin.com/in/chris-samiullah-b1133240) | Software developer | 
+| [**Dalibor Veljkovic**](https://www.linkedin.com/in/dalibor-veljkovic) | Data scientist | 
 
 
 ## Follow us
